@@ -1,4 +1,7 @@
-scrapling[full]
+scrapling
+curl_cffi
+patchright
+browserforge
 scrapegraphai
 agent-reach
 pydantic
