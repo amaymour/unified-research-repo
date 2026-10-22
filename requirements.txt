@@ -1,0 +1,6 @@
+scrapling
+scrapegraphai
+agent-reach
+pydantic
+requests
+openai
