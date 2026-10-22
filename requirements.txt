@@ -1,5 +1,6 @@
 scrapling
 curl_cffi
+patchright
 scrapegraphai
 agent-reach
 pydantic
