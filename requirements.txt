@@ -1,6 +1,4 @@
-scrapling
-curl_cffi
-patchright
+scrapling[full]
 scrapegraphai
 agent-reach
 pydantic
